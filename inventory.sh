@@ -1,9 +1,8 @@
 #!/bin/bash
 
 #Author Miriam 
-if   [
+if   [$?-eq 0]
 
 
 echo "success"
 fi
-exit 0

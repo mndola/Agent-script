@@ -1,6 +1,9 @@
 #!/bin/bash
 
 #Author Miriam 
-if  {
+if   [
 
 
+echo "success"
+fi
+exit 0
